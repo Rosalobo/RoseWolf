@@ -6,9 +6,6 @@ body {
   line-height: 1.4
 }
 
-code {
-  font: 14px "Courier New", Courier, monospace;
-}
 
 @media screen and (max-width: 1000px){
   body{
@@ -29,14 +26,13 @@ code {
   background-color:white;
   padding: 5px;
   color: black;
-  font-size: 40px;
+  font-size: 50px;
   font-family: 'Ostrich Sans Inline';
 }
 
 @font-face {
   font-family: 'Ostrich Sans Inline';
   src: url('ostrich-sans-inline-regular.eot');
-  src: local('☺'), url('ostrich-sans-inline-regular.woff') format('woff'), url('ostrich-sans-inline-regular.ttf') format('truetype'), url('ostrich-sans-inline-regular.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
