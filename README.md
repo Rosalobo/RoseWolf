@@ -40,7 +40,7 @@ How to push to GirHub:
 
 3. `git add .`
 
-4. `git commit -am "changes"`
+4. `git commit -am "add an example post"`
 
 5. `git push origin gh-pages`
 
