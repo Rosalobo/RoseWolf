@@ -2,7 +2,8 @@ body {
   padding-left: 25%;
   padding-right: 25%;
   padding-top:10px;
-  font: 16px "Arial, Helvetica, sans-serif";
+  font-size: 16px;
+  font-family: 'Muli', sans-serif, Helvetica;
   line-height: 1.4
 }
 
@@ -41,11 +42,12 @@ body {
   text-decoration: none;
   background-color:white;
   padding: 5px;
-  color: black;
+  color: #7A7A7A;
   font-size: 20px;
-  font-family: 'ostrich-sans-inline-regular';
-  font-weight: bold;
+  font-family: 'Muli', sans-serif;
+  font-weight: normal;
 }
+
 
 <div style="position: relative; background: url(path to image); width: (width)px; height: (height)px;">
 
